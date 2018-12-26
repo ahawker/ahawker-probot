@@ -1,0 +1,22 @@
+{
+  "name": "ahawker",
+  "version": "1.0.0",
+  "description": "Probot app for personal repositories",
+  "author": "Andrew Hawker <andrew.r.hawker@gmail.com> (https://github.com/ahawker/ahawker-probot)",
+  "repository": "https://github.com/ahawker/ahawker-probot.git",
+  "homepage": "https://github.com/ahawker/ahawker-probot",
+  "bugs": "https://github.com/ahawker/ahawker-probot/issues",
+  "scripts": {
+    "start": "probot run"
+  },
+  "probot": {
+   "apps": [
+     "probot-autoresponder",
+     "probot-settings"
+   ]
+  },
+  "dependencies": {
+    "probot-autoresponder": "probot/autoresponder",
+    "probot-settings": "probot/settings"
+  }
+}
