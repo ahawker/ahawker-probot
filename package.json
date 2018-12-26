@@ -12,11 +12,13 @@
   "probot": {
    "apps": [
      "probot-autoresponder",
-     "probot-settings"
+     "probot-settings",
+     "wip"
    ]
   },
   "dependencies": {
     "probot-autoresponder": "probot/autoresponder",
-    "probot-settings": "probot/settings"
+    "probot-settings": "probot/settings",
+    "wip": "wip/app"
   }
 }
