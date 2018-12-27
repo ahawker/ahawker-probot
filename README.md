@@ -36,6 +36,7 @@ of probot apps used.
 
 * [WIP](https://github.com/wip/app)
 * [Stale](https://github.com/probot/stale)
+* [Reminders](https://github.com/probot/reminders)
 
 ## License
 
