@@ -10,17 +10,21 @@
     "start": "probot run"
   },
   "probot": {
-   "apps": [
-     "probot-autoresponder",
-     "probot-reminders",
-     "probot-settings",
-     "wip"
-   ]
+    "apps": [
+      "probot-autoresponder",
+      "probot-reminders",
+      "probot-settings",
+      "wip",
+      "todo",
+      "unfurl"
+    ]
   },
   "dependencies": {
     "probot-autoresponder": "probot/autoresponder",
     "probot-reminders": "probot/reminders",
     "probot-settings": "probot/settings",
-    "wip": "wip/app"
+    "wip": "wip/app",
+    "todo": "github:JasonEtco/todo",
+    "unfurl": "github:probot/unfurl"
   }
 }
