@@ -16,10 +16,12 @@
       "probot-settings",
       "wip",
       "todo",
-      "unfurl"
+      "unfurl",
+      "delete-merged-branch"
     ]
   },
   "dependencies": {
+    "delete-merged-branch": "github:SvanBoxel/delete-merged-branch",
     "probot-autoresponder": "probot/autoresponder",
     "probot-reminders": "probot/reminders",
     "probot-settings": "probot/settings",
