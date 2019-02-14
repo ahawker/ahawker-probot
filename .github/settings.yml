@@ -2,4 +2,9 @@
 #
 # Base probot config files are location at https://github.com/ahawker/ahawker-probot-config
 
-_extends: ahawker/ahawker-probot-config
+_extends: ahawker-probot-config
+
+repository:
+  name: ahawker-probot
+  description: Probot app for personal repositories
+  homepage: https://github.com/ahawker/ahawker-probot
