@@ -29,6 +29,11 @@ The following environment variables need to be configured/set:
 * PRIVATE_KEY - PEM file data for the GitHub integration.
 * SENTRY_DSN - (Optional) If you wish to have this probot instance report exceptions to [Sentry](https://sentry.io)
 
+## App Configuration
+
+A number of probot apps can be configured using the [probot-config](https://github.com/probot/probot-config) extension. For these,
+the base config files are located in the [ahawker-probot-config](https://github.com/ahawker/ahawker-probot-config) repository.
+
 ## Apps
 
 Depending on what apps are configured, this app integration will require a differing set of permissions. This following is a list
