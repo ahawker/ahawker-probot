@@ -1,0 +1,5 @@
+# Probot Settings (https://github.com/probot/settings)
+#
+# Base probot config files are location at https://github.com/ahawker/ahawker-probot-config
+
+_extends: ahawker/ahawker-probot-config
