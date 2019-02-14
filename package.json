@@ -17,8 +17,7 @@
       "wip",
       "todo",
       "unfurl",
-      "delete-merged-branch",
-      "settings"
+      "delete-merged-branch"
     ]
   },
   "dependencies": {
@@ -27,7 +26,6 @@
     "probot-reminders": "probot/reminders",
     "probot-settings": "probot/settings",
     "wip": "wip/app",
-    "settings": "github:probot/settings",
     "todo": "github:JasonEtco/todo",
     "unfurl": "github:probot/unfurl"
   }
