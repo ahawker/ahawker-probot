@@ -17,7 +17,8 @@
       "wip",
       "todo",
       "unfurl",
-      "delete-merged-branch"
+      "delete-merged-branch",
+      "request-info"
     ]
   },
   "dependencies": {
@@ -27,6 +28,7 @@
     "probot-settings": "probot/settings",
     "wip": "wip/app",
     "todo": "github:JasonEtco/todo",
-    "unfurl": "github:probot/unfurl"
+    "unfurl": "github:probot/unfurl",
+    "request-info": "github:behaviorbot/request-info"
   }
 }
