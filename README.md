@@ -40,8 +40,13 @@ Depending on what apps are configured, this app integration will require a diffe
 of probot apps used.
 
 * [WIP](https://github.com/wip/app)
-* [Stale](https://github.com/probot/stale)
+* [Auto Responder](https://github.com/probot/autoresponder)
 * [Reminders](https://github.com/probot/reminders)
+* [Request Info](https://github.com/behaviorbot/request-info)
+* [Settings](https://github.com/probot/settings)
+* [Delete Merged Branch](https://github.com/svanboxel/delete-merged-branch)
+* [Unfurl](https://github.com/probot/unfurl)
+* [TODO](https://github.com/JasonEtco/todo)
 
 ## License
 
