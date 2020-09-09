@@ -9,6 +9,9 @@
   "scripts": {
     "start": "probot run"
   },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
   "probot": {
     "apps": [
       "probot-settings",
@@ -17,6 +20,7 @@
     ]
   },
   "dependencies": {
+    "probot": "^10.1.0",
     "delete-merged-branch": "github:SvanBoxel/delete-merged-branch",
     "probot-settings": "github:probot/settings",
     "todo": "github:JasonEtco/todo"
