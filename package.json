@@ -23,12 +23,12 @@
   },
   "dependencies": {
     "delete-merged-branch": "github:SvanBoxel/delete-merged-branch",
-    "probot-autoresponder": "probot/autoresponder",
-    "probot-reminders": "probot/reminders",
-    "probot-settings": "probot/settings",
-    "wip": "wip/app",
+    "probot-autoresponder": "github:probot/autoresponder",
+    "probot-reminders": "github:probot/reminders",
+    "probot-settings": "github:probot/settings",
+    "request-info": "github:behaviorbot/request-info",
     "todo": "github:JasonEtco/todo",
     "unfurl": "github:probot/unfurl",
-    "request-info": "github:behaviorbot/request-info"
+    "wip": "github:wip/app"
   }
 }
