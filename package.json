@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "probot": "^10.1.0",
-    "delete-merged-branch": "github:SvanBoxel/delete-merged-branch",
+    "delete-merged-branch": "1.4.1",
     "probot-settings": "github:probot/settings",
     "todo": "github:JasonEtco/todo"
   }
